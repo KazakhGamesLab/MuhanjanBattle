@@ -7,3 +7,6 @@
 [submodule "muhanjanbattle-frontend"]
 	path = muhanjanbattle-frontend
 	url = https://github.com/KazakhGamesLab/muhanjanbattle-frontend.git
+[submodule "muhanjanbattle-models"]
+	path = muhanjanbattle-models
+	url = https://github.com/KazakhGamesLab/muhanjanbattle-models.git
