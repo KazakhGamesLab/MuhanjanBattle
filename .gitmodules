@@ -1,0 +1,9 @@
+[submodule "muhanjanbattle-aiogram"]
+	path = muhanjanbattle-aiogram
+	url = https://github.com/KazakhGamesLab/muhanjanbattle-aiogram.git
+[submodule "muhanjanbattle-backend"]
+	path = muhanjanbattle-backend
+	url = https://github.com/KazakhGamesLab/muhanjanbattle-backend.git
+[submodule "muhanjanbattle-frontend"]
+	path = muhanjanbattle-frontend
+	url = https://github.com/KazakhGamesLab/muhanjanbattle-frontend.git
